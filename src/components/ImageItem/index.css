@@ -1,0 +1,25 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.list-element {
+  list-style-type: none;
+  margin: 10px;
+  width: 80px;
+  height: 80px;
+}
+
+.image-sizing {
+  width: 100%;
+  height: 100%;
+}
+
+.button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: transparent;
+  border: none;
+}
